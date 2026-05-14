@@ -1,0 +1,565 @@
+[Notice] Multiple instances of netstandard.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\netstandard.dll
+[Notice] Multiple instances of Newtonsoft.Json.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\Newtonsoft.Json.dll
+[Notice] Multiple instances of System.IO.Compression.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\System.IO.Compression.dll
+[Notice] Multiple instances of System.IO.Compression.FileSystem.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\System.IO.Compression.FileSystem.dll
+[Debug] Resolving library Newtonsoft.Json, Version=12.0.0.0, Culture=neutral
+[Debug] Looking for file Newtonsoft.Json.dll
+[Debug] Found file Newtonsoft.Json.dll as H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\Managed\Newtonsoft.Json.dll
+[Debug] Resolving library netstandard, Version=2.0.0.0, Culture=neutral
+[Debug] Looking for file netstandard.dll
+[Debug] Found file netstandard.dll as H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\Managed\netstandard.dll
+[INFO @ 17:50:55 | IPA/Injector] Installing bootstrapper took 00:00:00.1382691
+[NOTICE @ 17:50:55 | IPA/LibraryLoader] Multiple instances of netstandard.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\netstandard.dll
+[NOTICE @ 17:50:55 | IPA/LibraryLoader] Multiple instances of Newtonsoft.Json.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\Newtonsoft.Json.dll
+[NOTICE @ 17:50:55 | IPA/LibraryLoader] Multiple instances of System.IO.Compression.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\System.IO.Compression.dll
+[NOTICE @ 17:50:55 | IPA/LibraryLoader] Multiple instances of System.IO.Compression.FileSystem.dll exist! Ignoring H:\New folder (33)\BSManager\BSInstances\1.40.8\Libs\System.IO.Compression.FileSystem.dll
+[INFO @ 17:50:55 | IPA] Configuring permissions took 00:00:00.0136103
+[WARNING @ 17:50:56 | IPA/Loader/Features] Encountered old features used. They no longer do anything, please move to the new format.
+[WARNING @ 17:50:57 | IPA/Loader/Features] Encountered old features used. They no longer do anything, please move to the new format.
+[WARNING @ 17:51:02 | IPA/Loader/Features] Encountered old features used. They no longer do anything, please move to the new format.
+[WARNING @ 17:51:02 | IPA/Loader] Bare manifest ScoreSaberSharp.manifest does not declare any files. Dependency resolution and verification cannot be completed.
+[INFO @ 17:51:02 | IPA/Loader] Loading metadata took 00:00:06.8025746
+[WARNING @ 17:51:02 | IPA/Loader/Features] No such feature CountersPlus.CustomCounter
+[WARNING @ 17:51:02 | Log Subsystem] LOG SUBSYSTEM: Messages omitted to improve performance
+[WARNING @ 17:51:02 | Log Subsystem] LOG SUBSYSTEM: Messages omitted to improve performance
+[INFO @ 17:51:02 | IPA/Loader] Calculating load order took 00:00:00.0166488
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : LoaderInstance::CreateInstance chained CreateInstance call failed
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance failed
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : LoaderInstance::CreateInstance chained CreateInstance call failed
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance failed
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:24 | IPA/LibraryLoader] No library BeatSaber.VisualTests.PlayTests found
+[WARNING @ 17:51:24 | UnityEngine] OnLevelWasLoaded was found on PluginComponent
+[WARNING @ 17:51:24 | UnityEngine] This message has been deprecated and will be removed in a later version of Unity.
+[WARNING @ 17:51:24 | UnityEngine] Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+[WARNING @ 17:51:24 | IPA/Loader] Mod SiraUtil developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:24 | IPA/Loader] Mod System.IO.Compression developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:24 | IPA/Loader] Mod System.IO.Compression.FileSystem developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:24 | IPA/Loader] Mod SiraLocalizer developed for game version 1.40.0, so it may not work properly.
+[INFO @ 17:51:24 | SiraLocalizer] Localized plugin registered: 'BeatSaberMarkupLanguage' (beat-saber-markup-language)
+[INFO @ 17:51:24 | SiraLocalizer] Localized plugin registered: 'SiraLocalizer' (sira-localizer)
+[WARNING @ 17:51:24 | IPA/Loader] Mod BeatSaberMarkupLanguage developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod SongCore developed for game version 1.40.1, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod PracticePlugin developed for game version 1.40.4, so it may not work properly.
+[INFO @ 17:51:25 | PracticePlugin] PracticePlugin initialized.
+[WARNING @ 17:51:25 | IPA/Loader] Mod JDFixer developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod ChatPlexSDK_BS developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_SongChartVisualizer developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_NoteTweaker developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BS_Utils developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_Multiplayer developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_MenuMusic developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_GameTweaker developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_ChatRequest developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_ChatEmoteRain developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_SongOverlay developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_Chat developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaberPlus_ChatIntegrations developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod AssetBundleLoadingTools developed for game version 1.37.4, so it may not work properly.
+[INFO @ 17:51:25 | AssetBundleLoadingTools] Loading shaderbundles...
+[INFO @ 17:51:25 | AssetBundleLoadingTools] Loaded 6 manifests containing 644 shaders.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Cinema developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Custom Platforms developed for game version 1.40.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod ScoreSaberSharp developed for game version 1.6.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaver Downloader developed for game version 1.36.2, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod FFmpeg developed for game version 1.13.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Intro Skip developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod UITweaks developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod HitScoreVisualizer developed for game version 1.40.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod ScoreSaber developed for game version 1.40.0, so it may not work properly.
+[INFO @ 17:51:25 | ScoreSaber] Failed to get hmd from OpenXR System.Exception: openxr_loader not found
+[INFO @ 17:51:25 | ScoreSaber]   at ScoreSaber.Core.Utils.OpenXRManager.AttemptGetHmd () [0x00037] in /_/ScoreSaber/Core/Utils/OpenXRManager.cs:85
+[WARNING @ 17:51:25 | IPA/Loader] Mod BetterSongList developed for game version 1.37.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BetterSort.LastPlayed developed for game version 1.37.5, so it may not work properly.
+[INFO @ 17:51:25 | BetterSort.LastPlayed] Initialized.
+[WARNING @ 17:51:25 | IPA/Loader] Mod DiscordGameSDK developed for game version 1.16.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod FPS Counter developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod protobuf-net developed for game version 1.13.2, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Enhancements developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod DiscordCore developed for game version 1.37.4, so it may not work properly.
+[INFO @ 17:51:25 | DiscordCore] DiscordClient enabled.
+[WARNING @ 17:51:25 | IPA/Loader] Mod ImageCoverExpander developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod CustomJSONData developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Heck developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod LookupID developed for game version 1.21.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod Chroma developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod CustomNotes developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatSaverVoting developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod MultiplayerInfo developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod OpenVR API developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod DiTails developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod SongPlayHistory developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod MultiplayerCore developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:25 | IPA/Loader] Mod BeatTogether developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod websocket-sharp developed for game version 1.13.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod SongDetailsCache developed for game version 1.13.2, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod DataPuller developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod EasyOffset developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod RandomSongPlayer developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod SoundReplacer developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod Claws developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | UnityEngine] The referenced script (SaberDescriptor) on this Behaviour is missing!
+[WARNING @ 17:51:26 | UnityEngine] The referenced script on this Behaviour (Game Object '_CustomSaber') is missing!
+[WARNING @ 17:51:26 | IPA/Loader] Mod NoodleExtensions developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod MappingExtensions developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BeatSaberPlaylistsLib developed for game version 1.37.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod PlaylistManager developed for game version 1.37.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod LeaderboardCore developed for game version 1.37.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BeatmapScanner developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod IForgor developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod SliceDetails developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod StepBackWall developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod ComboSplitter developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod MultiplayerMirror developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BeatSaverUpdater developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod ImageFactory developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod Custom Backgrounds developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod bsrpc developed for game version 1.38.0, so it may not work properly.
+[INFO @ 17:51:26 | bsrpc] bsrpc initialized.
+[WARNING @ 17:51:26 | IPA/Loader] Mod SongChartVisualizer developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod HitsoundTweaks developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod TrickSaber developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod Technicolor developed for game version 1.34.2, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BetterPause developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod TakeMeToResults developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BetterLegacyLights developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod XR Hands developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod HapticsTweaker developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod PentaSaber developed for game version 1.38.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod CameraUtils developed for game version 1.33.0, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod AudioLink developed for game version 1.37.0, so it may not work properly.
+[NOTICE @ 17:51:26 | IPA/Loader] Plugin AudioLink has no methods marked [OnExit] or [OnDisable]. Is this intentional?
+[WARNING @ 17:51:26 | IPA/Loader] Mod SongRankedBadge developed for game version 1.40.0, so it may not work properly.
+[INFO @ 17:51:26 | SongRankedBadge] SongRankedBadge initialized.
+[WARNING @ 17:51:26 | IPA/Loader] Mod Vivify developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod AdBlocker developed for game version 1.34.2, so it may not work properly.
+[INFO @ 17:51:26 | AdBlocker] AdBlocker initialized.
+[WARNING @ 17:51:26 | IPA/Loader] Mod CustomSabersLite developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BeatSaviorUI developed for game version 1.40.3, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod WhyIsThereNoLeaderboard developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod BSAssetLib developed for game version 1.39.1, so it may not work properly.
+[NOTICE @ 17:51:26 | IPA/Loader] Plugin BSAssetLib has no methods marked [OnStart] or [OnEnable]. Is this intentional?
+[NOTICE @ 17:51:26 | IPA/Loader] Plugin BSAssetLib has no methods marked [OnExit] or [OnDisable]. Is this intentional?
+[WARNING @ 17:51:26 | IPA/Loader] Mod SimpleClock developed for game version 1.39.1, so it may not work properly.
+[INFO @ 17:51:26 | SimpleClock] SimpleClock initialized.
+[WARNING @ 17:51:26 | IPA/Loader] Mod OpenXR Feature Manager developed for game version 1.29.4, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod OpenXR Hands developed for game version 1.34.2, so it may not work properly.
+[WARNING @ 17:51:26 | IPA/Loader] Mod SaberRandomizer developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod BetterSongList PlayCount Sort developed for game version 1.37.4, so it may not work properly.
+[NOTICE @ 17:51:27 | IPA/Loader] Plugin BetterSongList PlayCount Sort has no methods marked [OnExit] or [OnDisable]. Is this intentional?
+[WARNING @ 17:51:27 | IPA/Loader] Mod MenuSelector developed for game version 1.40.0, so it may not work properly.
+[INFO @ 17:51:27 | MenuSelector] MenuSelector 1.0.0 initialized.
+[WARNING @ 17:51:27 | IPA/Loader] Mod Camera2 developed for game version 1.40.0, so it may not work properly.
+[INFO @ 17:51:27 | Camera2] Camera2 loaded
+[WARNING @ 17:51:27 | IPA/Loader] Mod BeatLeader developed for game version 1.40.2, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod BetterSongSearch developed for game version 1.38.0, so it may not work properly.
+[INFO @ 17:51:27 | BetterSongSearch] BetterSongSearch initialized.
+[WARNING @ 17:51:27 | IPA/Loader] Mod ReeSabers developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod Tweaks55 developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod NoteCutGuide developed for game version 1.37.5, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod CustomSaberColors developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod SliceVisualizer developed for game version 1.40.4, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod LocalLeaderboard developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod Height developed for game version 1.40.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod FailButton developed for game version 1.39.0, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod MenuFloaters developed for game version 1.40.3, so it may not work properly.
+[INFO @ 17:51:27 | MenuFloaters] Plugin loaded
+[WARNING @ 17:51:27 | IPA/Loader] Mod PitchBlack developed for game version 1.39.1, so it may not work properly.
+[WARNING @ 17:51:27 | IPA/Loader] Mod VerboseVolume developed for game version 1.40.3, so it may not work properly.
+[INFO @ 17:51:27 | VerboseVolume] Plugin loaded
+[INFO @ 17:51:27 | IPA] Beat Saber
+[INFO @ 17:51:27 | IPA] Running on Unity 2022.3.33f1
+[INFO @ 17:51:27 | IPA] Game version 1.40.8
+[INFO @ 17:51:27 | IPA] -----------------------------
+[INFO @ 17:51:27 | IPA] Loading plugins from Plugins and found 116
+[INFO @ 17:51:27 | IPA] -----------------------------
+[INFO @ 17:51:27 | IPA] yt-dlp (yt-dlp): 2024.10.7
+[INFO @ 17:51:27 | IPA] Beat Saber IPA (BSIPA): 4.3.6
+[INFO @ 17:51:27 | IPA] SiraUtil (SiraUtil): 3.2.1+bs.1.40.0
+[INFO @ 17:51:27 | IPA] System.IO.Compression (System.IO.Compression): 4.6.57
+[INFO @ 17:51:27 | IPA] System.IO.Compression.FileSystem (System.IO.Compression.FileSystem): 4.7.3056
+[INFO @ 17:51:27 | IPA] SiraLocalizer (SiraLocalizer): 2.0.3+bs.1.40.0
+[INFO @ 17:51:27 | IPA] BeatSaberMarkupLanguage (BeatSaberMarkupLanguage): 1.12.5+bs.1.40.0
+[INFO @ 17:51:27 | IPA] SongCore (SongCore): 3.15.3
+[INFO @ 17:51:27 | IPA] PracticePlugin (PracticePlugin): 9.1.0
+[INFO @ 17:51:27 | IPA] JDFixer (JDFixer): 7.4.0
+[INFO @ 17:51:27 | IPA] ChatPlexSDK_BS (ChatPlexSDK_BS): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_SongChartVisualizer (BeatSaberPlus_SongChartVisualizer): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_NoteTweaker (BeatSaberPlus_NoteTweaker): 6.4.2
+[INFO @ 17:51:27 | IPA] INI Parser (Ini Parser): 2.5.9
+[INFO @ 17:51:27 | IPA] BS_Utils (BS Utils): 1.14.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_Multiplayer (BeatSaberPlus_Multiplayer): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_MenuMusic (BeatSaberPlus_MenuMusic): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_GameTweaker (BeatSaberPlus_GameTweaker): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_ChatRequest (BeatSaberPlus_ChatRequest): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_ChatEmoteRain (BeatSaberPlus_ChatEmoteRain): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_SongOverlay (BeatSaberPlus_SongOverlay): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_Chat (BeatSaberPlus_Chat): 6.4.2
+[INFO @ 17:51:27 | IPA] BeatSaberPlus_ChatIntegrations (BeatSaberPlus_ChatIntegrations): 6.4.2
+[INFO @ 17:51:27 | IPA] AssetBundleLoadingTools (AssetBundleLoadingTools): 1.1.10+bs.1.37.4
+[INFO @ 17:51:27 | IPA] Cinema (BeatSaberCinema): 1.7.12+1.40.0
+[INFO @ 17:51:27 | IPA] Custom Platforms (CustomPlatforms): 6.2.4
+[INFO @ 17:51:27 | IPA] BeatSaverSharp (BeatSaverSharp): 3.4.5
+[INFO @ 17:51:27 | IPA] ScoreSaberSharp (ScoreSaberSharp): 0.1.0
+[INFO @ 17:51:27 | IPA] BeatSaver Downloader (BeatSaverDownloader): 6.0.7
+[INFO @ 17:51:27 | IPA] FFmpeg (ffmpeg): 4.3.3
+[INFO @ 17:51:27 | IPA] Intro Skip (IntroSkip): 4.0.6
+[INFO @ 17:51:27 | IPA] UITweaks (UITweaks): 4.0.4
+[INFO @ 17:51:27 | IPA] HitScoreVisualizer (HitScoreVisualizer): 3.5.3
+[INFO @ 17:51:27 | IPA] ScoreSaber (ScoreSaber): 3.3.17
+[INFO @ 17:51:27 | IPA] BetterSongList (BetterSongList): 0.4.2
+[INFO @ 17:51:27 | IPA] BetterSort.LastPlayed (BetterSort.LastPlayed): 3.2.3
+[INFO @ 17:51:27 | IPA] DiscordGameSDK (DiscordGameSDK): 3.2.1
+[INFO @ 17:51:27 | IPA] FPS Counter (FPSCounter): 3.1.3
+[INFO @ 17:51:27 | IPA] protobuf-net (protobuf-net): 3.0.102
+[INFO @ 17:51:27 | IPA] Enhancements (Enhancements): 3.0.18
+[INFO @ 17:51:27 | IPA] DiscordCore (DiscordCore): 3.0.6
+[INFO @ 17:51:27 | IPA] ImageCoverExpander (ImageCoverExpander): 3.0.2
+[INFO @ 17:51:27 | IPA] CustomJSONData (CustomJSONData): 2.6.8+1.40.0
+[INFO @ 17:51:27 | IPA] Heck (Heck): 1.7.14+1.40.3
+[INFO @ 17:51:27 | IPA] LookupID (LookupID): 1.0.1
+[INFO @ 17:51:27 | IPA] Chroma (Chroma): 2.9.20+1.40.3
+[INFO @ 17:51:27 | IPA] CustomNotes (CustomNotes): 2.6.9
+[INFO @ 17:51:27 | IPA] BeatSaverVoting (BeatSaverVoting): 2.4.6
+[INFO @ 17:51:27 | IPA] MultiplayerInfo (MultiplayerInfo): 2.3.0
+[INFO @ 17:51:27 | IPA] OpenVR API (OpenVR): 2.2.3
+[INFO @ 17:51:27 | IPA] DiTails (DiTails): 1.1.2
+[INFO @ 17:51:27 | IPA] SongPlayHistory (SongPlayHistory): 2.2.3
+[INFO @ 17:51:27 | IPA] MultiplayerCore (MultiplayerCore): 1.6.1
+[INFO @ 17:51:27 | IPA] BeatTogether (BeatTogether): 2.2.1
+[INFO @ 17:51:27 | IPA] websocket-sharp (websocket-sharp): 1.0.4
+[INFO @ 17:51:27 | IPA] SongDetailsCache (SongDetailsCache): 1.4.0
+[INFO @ 17:51:27 | IPA] DataPuller (DataPuller): 2.1.15
+[INFO @ 17:51:27 | IPA] EasyOffset (EasyOffset): 2.1.15
+[INFO @ 17:51:27 | IPA] RandomSongPlayer (RandomSongPlayer): 2.0.2
+[INFO @ 17:51:27 | IPA] SoundReplacer (SoundReplacer): 2.0.1
+[INFO @ 17:51:27 | IPA] ImageSharp (SixLabors.ImageSharp): 2.0.0
+[INFO @ 17:51:27 | IPA] Claws (claws): 1.12.1
+[INFO @ 17:51:27 | IPA] NoodleExtensions (NoodleExtensions): 1.7.18+1.40.3
+[INFO @ 17:51:27 | IPA] MappingExtensions (MappingExtensions): 1.7.6
+[INFO @ 17:51:27 | IPA] BeatSaberPlaylistsLib (BeatSaberPlaylistsLib): 1.7.2
+[INFO @ 17:51:27 | IPA] PlaylistManager (PlaylistManager): 1.7.3
+[INFO @ 17:51:27 | IPA] LeaderboardCore (LeaderboardCore): 1.7.0
+[INFO @ 17:51:27 | IPA] BeatmapScanner (BeatmapScanner): 1.5.14
+[INFO @ 17:51:27 | IPA] IForgor (I Forgor): 1.4.1
+[INFO @ 17:51:27 | IPA] SliceDetails (SliceDetails): 1.3.6
+[INFO @ 17:51:27 | IPA] StepBackWall (StepBackWall): 1.3.4
+[INFO @ 17:51:27 | IPA] ComboSplitter (ComboSplitter): 1.3.1
+[INFO @ 17:51:27 | IPA] MultiplayerMirror (MultiplayerMirror): 1.3.0
+[INFO @ 17:51:27 | IPA] BeatSaverUpdater (BeatSaverUpdater): 1.2.11
+[INFO @ 17:51:27 | IPA] ImageFactory (ImageFactory): 1.2.6
+[INFO @ 17:51:27 | IPA] Custom Backgrounds (CustomBackgrounds): 1.2.2
+[INFO @ 17:51:27 | IPA] bsrpc (bsrpc): 1.2.1
+[INFO @ 17:51:27 | IPA] SongChartVisualizer (SongChartVisualizer): 1.1.11
+[INFO @ 17:51:27 | IPA] HitsoundTweaks (HitsoundTweaks): 1.1.8
+[INFO @ 17:51:27 | IPA] TrickSaber (TrickSaber): 1.1.7
+[INFO @ 17:51:27 | IPA] Technicolor (Technicolor): 1.1.2+1.34.2
+[INFO @ 17:51:27 | IPA] BetterPause (BetterPause): 1.1.2
+[INFO @ 17:51:27 | IPA] TakeMeToResults (TakeMeToResults): 1.1.1
+[INFO @ 17:51:27 | IPA] BetterLegacyLights (BetterLegacyLights): 1.1.0
+[INFO @ 17:51:27 | IPA] XR Hands (Unity.XR.Hands): 1.1.0
+[INFO @ 17:51:27 | IPA] HapticsTweaker (HapticsTweaker): 1.1.0
+[INFO @ 17:51:27 | IPA] PentaSaber (PentaSaber): 1.0.109
+[INFO @ 17:51:27 | IPA] CameraUtils (CameraUtils): 1.0.7
+[INFO @ 17:51:27 | IPA] AudioLink (AudioLink): 1.0.6+1.37.0
+[INFO @ 17:51:27 | IPA] SongRankedBadge (SongRankedBadge): 1.0.6
+[INFO @ 17:51:27 | IPA] Vivify (Vivify): 1.0.5+1.40.3
+[INFO @ 17:51:27 | IPA] AdBlocker (AdBlocker): 1.0.5
+[INFO @ 17:51:27 | IPA] CustomSabersLite (CustomSabersLite): 1.0.3
+[INFO @ 17:51:27 | IPA] BeatSaviorUI (BeatSaviorUI): 1.0.3
+[INFO @ 17:51:27 | IPA] WhyIsThereNoLeaderboard (WhyIsThereNoLeaderboard): 1.0.3
+[INFO @ 17:51:27 | IPA] BSAssetLib (BSAssetLib): 1.0.2
+[INFO @ 17:51:27 | IPA] SimpleClock (SimpleClock): 1.0.1
+[INFO @ 17:51:27 | IPA] OpenXR Feature Manager (OpenXRFeatureManager): 1.0.1
+[INFO @ 17:51:27 | IPA] OpenXR Hands (OpenXRHands): 1.0.1+bs.1.34.2
+[INFO @ 17:51:27 | IPA] SaberRandomizer (SaberRandomizer): 1.0.1
+[INFO @ 17:51:27 | IPA] BetterSongList PlayCount Sort (BetterSongList-PlayCount): 1.0.0
+[INFO @ 17:51:27 | IPA] MenuSelector (MenuSelector): 1.0.0
+[INFO @ 17:51:27 | IPA] Camera2 (Camera2): 0.6.118
+[INFO @ 17:51:27 | IPA] BeatLeader (BeatLeader): 0.9.33
+[INFO @ 17:51:27 | IPA] BetterSongSearch (BetterSongSearch): 0.8.1
+[INFO @ 17:51:27 | IPA] ReeSabers (ReeSabers): 0.3.18
+[INFO @ 17:51:27 | IPA] Tweaks55 (Tweaks55): 0.3.17
+[INFO @ 17:51:27 | IPA] NoteCutGuide (NoteCutGuide): 0.2.7
+[INFO @ 17:51:27 | IPA] CustomSaberColors (CustomSaberColors): 0.2.6
+[INFO @ 17:51:27 | IPA] SliceVisualizer (SliceVisualizer): 0.1.6
+[INFO @ 17:51:27 | IPA] LocalLeaderboard (LocalLeaderboard): 0.0.12+1.40.0
+[INFO @ 17:51:27 | IPA] Height (Height): 0.0.5
+[INFO @ 17:51:27 | IPA] FailButton (FailButton): 0.0.4
+[INFO @ 17:51:27 | IPA] MenuFloaters (MenuFloaters): 0.0.4+1.40.3
+[INFO @ 17:51:27 | IPA] PitchBlack (PitchBlack): 0.0.3
+[INFO @ 17:51:27 | IPA] VerboseVolume (VerboseVolume): 0.0.0+1.40.3
+[INFO @ 17:51:27 | IPA] -----------------------------
+[INFO @ 17:51:27 | IPA] Initializing plugins took 00:00:02.9287539
+[INFO @ 17:51:28 | SongCore] Finished loading cached song data for 2900 songs.
+[CRITICAL @ 17:51:28 | IPA/LibraryLoader] No library Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null found
+[CRITICAL @ 17:51:28 | IPA/LibraryLoader] No library Counters+ found
+[ERROR @ 17:51:28 | ChatPlexSDK_BS] [CP_SDK][ChatPlexSDK.InitModules] Failed to find modules in FPSCounter, Version=3.1.3.0, Culture=neutral, PublicKeyToken=null
+[ERROR @ 17:51:28 | ChatPlexSDK_BS] System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+[ERROR @ 17:51:28 | ChatPlexSDK_BS] Could not load file or assembly 'Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+[ERROR @ 17:51:28 | ChatPlexSDK_BS]   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+[ERROR @ 17:51:28 | ChatPlexSDK_BS]   at System.Reflection.Assembly.GetTypes () [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0
+[ERROR @ 17:51:28 | ChatPlexSDK_BS]   at CP_SDK.ChatPlexSDK.InitModules () [0x00025] in <52fc3bb091404de2a61436f25e96d78a>:0
+[ERROR @ 17:51:28 | ChatPlexSDK_BS] System.IO.FileNotFoundException: Could not load file or assembly 'Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+[ERROR @ 17:51:28 | ChatPlexSDK_BS] File name: 'Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null'
+[INFO @ 17:51:29 | BeatSaver Downloader] Loading bookmarks filter
+[WARNING @ 17:51:30 | Harmony] AccessTools.GetTypesFromAssembly: assembly FPSCounter, Version=3.1.3.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+[WARNING @ 17:51:30 | Harmony] Could not load file or assembly 'Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+[WARNING @ 17:51:30 | Harmony]   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+[WARNING @ 17:51:30 | Harmony]   at System.Reflection.Assembly.GetTypes () [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0
+[WARNING @ 17:51:30 | Harmony]   at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <bd235d216da54f80b5e45bcfb1bf9fda>:0
+[WARNING @ 17:51:30 | Harmony] System.TypeLoadException: Could not load file or assembly 'Counters+, Version=2.3.8.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+[INFO @ 17:51:30 | Claws] Loading plugin preferences...
+[INFO @ 17:51:30 | Claws] Loaded! Plugin is disabled.
+[INFO @ 17:51:30 | Claws] v1.12.1.0 loaded!
+[INFO @ 17:51:30 | StepBackWall] StepBackWall v.1.3.4 has started.
+[INFO @ 17:51:30 | PentaSaber] OnApplicationStart
+[INFO @ 17:51:30 | OpenXR Feature Manager/FeatureManager] Registering feature HandTracking
+[INFO @ 17:51:30 | OpenXR Feature Manager/FeatureManager] Registering feature MetaHandTrackingAim
+[INFO @ 17:51:30 | BetterSongList PlayCount Sort] v1.0.0 loaded!
+[WARNING @ 17:51:31 | BeatLeader] Plugin BeatSaviorData not found, BeatSaviorInterop will not be loaded
+[WARNING @ 17:51:31 | BeatLeader] Plugin Counters+ not found, CountersPlusInterop will not be loaded
+[WARNING @ 17:51:31 | BeatLeader] Plugin _Heck not found, HeckInterop will not be loaded
+[INFO @ 17:51:31 | BeatLeader] Successfully patched 5 ScoreSaber installators!
+[NOTICE @ 17:51:31 | Tweaks55] Applied all patches in 105ms
+[INFO @ 17:51:31 | VerboseVolume] Patches applied
+[INFO @ 17:51:32 | UnityEngine] [SettingsIO] Loaded Settings on 'Standalone' (async)
+[INFO @ 17:51:32 | SongPlayHistory] BeatSaverVoting is installed! Binding BeatSaverVotingTracker.
+[INFO @ 17:51:32 | UnityEngine] [MainSystemInit] Initialization was completed on version: 1.40.8_7379
+[WARNING @ 17:51:32 | BeatLeader] OpenXR session is not running, info won't be available!
+[INFO @ 17:51:32 | UnityEngine] [MainSystemInit] Network Service Environment: ProductionB
+Setting breakpad minidump AppID = 620980
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199147183451 [API loaded no]
+[WARNING @ 17:51:34 | Harmony] AccessTools.DeclaredMethod: Could not find method for type NodePoseSyncStateManager and name TryCreateLocalState and parameters
+[WARNING @ 17:51:34 | SiraUtil] 'void MultiplayerCore.NodePoseSyncState.MpNodePoseSyncStateManager::TryCreateLocalState(NodePoseSyncStateManager __instance)' is patching 'void MultiplayerSyncStateManager<NodePoseSyncState, NodePoseSyncState+NodePose, PoseSerializable, NodePoseSyncStateNetSerializable, NodePoseSyncStateDeltaNetSerializable>::TryCreateLocalState()' but target class is 'NodePoseSyncStateManager'. This is deprecated behaviour and will be removed in a future release.
+[WARNING @ 17:51:34 | Harmony] AccessTools.DeclaredMethod: Could not find method for type NodePoseSyncStateManager and name HandlePlayerConnected and parameters
+[WARNING @ 17:51:34 | SiraUtil] 'void MultiplayerCore.NodePoseSyncState.MpNodePoseSyncStateManager::HandlePlayerConnected(NodePoseSyncStateManager __instance)' is patching 'void MultiplayerSyncStateManager<NodePoseSyncState, NodePoseSyncState+NodePose, PoseSerializable, NodePoseSyncStateNetSerializable, NodePoseSyncStateDeltaNetSerializable>::HandlePlayerConnected(IConnectedPlayer player)' but target class is 'NodePoseSyncStateManager'. This is deprecated behaviour and will be removed in a future release.
+[WARNING @ 17:51:34 | Harmony] AccessTools.DeclaredMethod: Could not find method for type ScoreSyncStateManager and name TryCreateLocalState and parameters
+[WARNING @ 17:51:34 | SiraUtil] 'void MultiplayerCore.NodePoseSyncState.MpScoreSyncStateManager::TryCreateLocalState(ScoreSyncStateManager __instance)' is patching 'void MultiplayerSyncStateManager<StandardScoreSyncState, StandardScoreSyncState+Score, int, StandardScoreSyncStateNetSerializable, StandardScoreSyncStateDeltaNetSerializable>::TryCreateLocalState()' but target class is 'ScoreSyncStateManager'. This is deprecated behaviour and will be removed in a future release.
+[WARNING @ 17:51:34 | Harmony] AccessTools.DeclaredMethod: Could not find method for type ScoreSyncStateManager and name HandlePlayerConnected and parameters
+[WARNING @ 17:51:34 | SiraUtil] 'void MultiplayerCore.NodePoseSyncState.MpScoreSyncStateManager::HandlePlayerConnected(ScoreSyncStateManager __instance)' is patching 'void MultiplayerSyncStateManager<StandardScoreSyncState, StandardScoreSyncState+Score, int, StandardScoreSyncStateNetSerializable, StandardScoreSyncStateDeltaNetSerializable>::HandlePlayerConnected(IConnectedPlayer player)' but target class is 'ScoreSyncStateManager'. This is deprecated behaviour and will be removed in a future release.
+[INFO @ 17:51:35 | SiraLocalizer/FontLoader] Loading fonts
+[INFO @ 17:51:35 | FPS Counter/PluginUtils] Checking for Counters+
+[NOTICE @ 17:51:35 | CustomNotes] 7 external notes found. Preparing to load.
+[NOTICE @ 17:51:35 | CustomNotes] 7 total custom notes loaded.
+[INFO @ 17:51:35 | SongPlayHistory/RecordsManager] Loading history from H:\New folder (33)\BSManager\BSInstances\1.40.8\UserData\SongPlayData.json
+[INFO @ 17:51:35 | SongPlayHistory/RecordsManager] Loaded 1559 records from 513 levels.
+[INFO @ 17:51:35 | HitsoundTweaks] Successfully set number of virtual voices
+[INFO @ 17:51:35 | HitsoundTweaks] Successfully set number of real voices
+[NOTICE @ 17:51:36 | CustomSabersLite] Found 0 saber files to load
+[NOTICE @ 17:51:36 | CustomSabersLite] Cache loading took 60ms
+[INFO @ 17:51:36 | SiraLocalizer/FontLoader] Adding fallbacks to 'Teko-Medium SDF' (16206)
+[INFO @ 17:51:36 | SiraLocalizer/FontLoader] Adding fallbacks to 'Teko-Bold SDF' (15446)
+[INFO @ 17:51:36 | UnityEngine] Applied GraphicSettings
+[NOTICE @ 17:51:37 | LocalLeaderboard/SPHInstaller] Binding SongPlayHistoryDataService
+[INFO @ 17:51:37 | SongPlayHistory/SPHUI] Preparing SPU UI
+[INFO @ 17:51:38 | UnityEngine] Applied GraphicSettings
+[INFO @ 17:51:38 | BetterSort.LastPlayed/PlayedDateRepository] Migrated 455 records.
+[INFO @ 17:51:38 | BetterSort.LastPlayed/TransformerPluginHelper] Registered this to BetterSongList.
+[WARNING @ 17:51:39 | BeatSaberMarkupLanguage] Registering type handler BeatLeader.UI.BSML_Addons.Extensions.GenericSettingExtensionHandler for type BeatSaberMarkupLanguage.Components.Settings.GenericSetting that is already handled by BeatSaberMarkupLanguage.TypeHandlers.Settings.GenericSettingHandler! This may lead to unexpected behaviour in the future if type handlers share attributes with the same name.
+[WARNING @ 17:51:39 | BeatSaberMarkupLanguage] Registering type handler BeatLeader.UI.BSML_Addons.Extensions.GraphicExtensionHandler for type UnityEngine.UI.Graphic that is already handled by BeatSaberMarkupLanguage.TypeHandlers.GraphicHandler! This may lead to unexpected behaviour in the future if type handlers share attributes with the same name.
+[WARNING @ 17:51:39 | BeatSaberMarkupLanguage] Registering type handler BeatLeader.UI.BSML_Addons.Extensions.ImageViewExtensionHandler for type UnityEngine.RectTransform that is already handled by BeatSaberMarkupLanguage.TypeHandlers.RectTransformHandler! This may lead to unexpected behaviour in the future if type handlers share attributes with the same name.
+[WARNING @ 17:51:39 | BeatSaberMarkupLanguage] Registering type handler BeatLeader.UI.BSML_Addons.Extensions.ModalViewExtensionHandler for type HMUI.ModalView that is already handled by BeatSaberMarkupLanguage.TypeHandlers.ModalViewHandler! This may lead to unexpected behaviour in the future if type handlers share attributes with the same name.
+[NOTICE @ 17:51:40 | Camera2] Game is ready, Initializing...
+[INFO @ 17:51:40 | Vivify] Enabling Vivify Cam2 post-processing on [Main]
+[WARNING @ 17:51:42 | BeatSaberPlus_GameTweaker] [GameTweaker] CleanLogs, 1 old logs entry deleted!
+[INFO @ 17:51:42 | SongCore] Finished loading cached hashes for 2893 songs.
+[INFO @ 17:51:42 | SongCore] Finished loading cached durations for 2893 songs.
+[INFO @ 17:51:42 | SongCore] Starting full song refresh
+[WARNING @ 17:51:42 | SongCore] Could not find lastSample for H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4237 (Kumo No Kireme - Loloppe)\song.egg
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file, approximating using map length. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4237 (Kumo No Kireme - Loloppe)
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4237 (Kumo No Kireme - Loloppe)
+[WARNING @ 17:51:42 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\42b87 (ready2flow - Astellic)' is missing Info.dat file!
+[WARNING @ 17:51:42 | SongCore] Could not find lastSample for H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4676 (Shiro to Enji no Omochabako - AutoMapper)\Lv13,22 .egg
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file, approximating using map length. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4676 (Shiro to Enji no Omochabako - AutoMapper)
+[WARNING @ 17:51:42 | SongCore] Could not find lastSample for H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\13e6 (The Warrior Inside - DragonForce)\TWI.egg
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file, approximating using map length. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\13e6 (The Warrior Inside - DragonForce)
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4676 (Shiro to Enji no Omochabako - AutoMapper)
+[WARNING @ 17:51:42 | SongCore] Failed to parse song length from audio file. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\13e6 (The Warrior Inside - DragonForce)
+[WARNING @ 17:51:43 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomWIPLevels\Cache' is missing Info.dat file!
+[WARNING @ 17:51:43 | SongCore] Could not find lastSample for H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4f9e (FLOWER -SPRING Long VER.- - Loloppe)\song.egg
+[WARNING @ 17:51:43 | SongCore] Failed to parse song length from audio file, approximating using map length. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4f9e (FLOWER -SPRING Long VER.- - Loloppe)
+[WARNING @ 17:51:43 | SongCore] Failed to parse song length from audio file. Song: H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\4f9e (FLOWER -SPRING Long VER.- - Loloppe)
+[INFO @ 17:51:44 | SongCore] Loaded 2896 new songs (2895) in CustomLevels | 1 in separate folder) in 1.9473256 seconds
+[ERROR @ 17:51:44 | ChatPlexSDK_BS] [CP_SDK.Network][WebClient.GetAsync] Request https://id.twitch.tv/oauth2/validate failed with code 401:"HTTP/1.1 401 Unauthorized", not retrying
+[ERROR @ 17:51:44 | ChatPlexSDK_BS] [CP_SDK.Chat.Service.Twitch][TwitchHelix.ValidateToken] Failed with message:
+[ERROR @ 17:51:44 | ChatPlexSDK_BS] {"status":401,"message":"missing authorization token"}
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...) (1)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter) (1)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - ) (1)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - )
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate) (1)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek - Dreamworks ~ Map by KingPeuche
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter) (1)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin) (1)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo) (1)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter) (1)
+[NOTICE @ 17:51:44 | SongCore] Found duplicates:
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...) (1)
+[NOTICE @ 17:51:44 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...)
+[INFO @ 17:51:44 | BeatLeader] Login successful!
+[INFO @ 17:51:44 | SongCore] Saving cached hashes for 2893 songs.
+[INFO @ 17:51:45 | SongCore] Saving cached durations for 2893 songs.
+[INFO @ 17:51:45 | SongCore] Saving cached song data for 2900 songs.
+[INFO @ 17:51:48 | ImageCoverExpander/ArtworkViewManager] Expanding artwork for LevelBarBig
+[INFO @ 17:51:49 | MultiplayerCore/MpPerPlayerUI] Got StatusData update for server BeatTogether server with values supportsPPDifficulties=True and supportsPPModifiers=True
+[INFO @ 17:51:50 | ImageCoverExpander/ArtworkViewManager] Expanding artwork for LevelBarBig
+[ERROR @ 17:51:50 | Cinema] No config exists for :
+[INFO @ 17:51:50 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:26 | Cinema] No config exists for :
+[INFO @ 17:52:26 | SongPlayHistory/SPHUI] Updating SPH UI
+[INFO @ 17:52:27 | SongCore] Starting song refresh
+[WARNING @ 17:52:27 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\42b87 (ready2flow - Astellic)' is missing Info.dat file!
+[WARNING @ 17:52:27 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomWIPLevels\Cache' is missing Info.dat file!
+[INFO @ 17:52:27 | SongCore] Loaded 2896 new songs (2895) in CustomLevels | 1 in separate folder) in 0.1905457 seconds
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...) (1)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter) (1)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - ) (1)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - )
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate) (1)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek - Dreamworks ~ Map by KingPeuche
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter) (1)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin) (1)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo) (1)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter) (1)
+[NOTICE @ 17:52:27 | SongCore] Found duplicates:
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...) (1)
+[NOTICE @ 17:52:27 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...)
+[INFO @ 17:52:28 | SongCore] Saving cached hashes for 2893 songs.
+[INFO @ 17:52:28 | SongCore] Saving cached durations for 2893 songs.
+[INFO @ 17:52:28 | SongCore] Saving cached song data for 2900 songs.
+[ERROR @ 17:52:28 | Cinema] No config exists for :
+[INFO @ 17:52:28 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:29 | Cinema] No config exists for :
+[INFO @ 17:52:29 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:30 | Cinema] No config exists for :
+[INFO @ 17:52:30 | SongPlayHistory/SPHUI] Updating SPH UI
+[INFO @ 17:52:31 | SongCore] Starting song refresh
+[WARNING @ 17:52:31 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\42b87 (ready2flow - Astellic)' is missing Info.dat file!
+[WARNING @ 17:52:31 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomWIPLevels\Cache' is missing Info.dat file!
+[INFO @ 17:52:31 | SongCore] Loaded 2896 new songs (2895) in CustomLevels | 1 in separate folder) in 0.1549145 seconds
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...) (1)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter) (1)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - ) (1)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - )
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate) (1)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek - Dreamworks ~ Map by KingPeuche
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter) (1)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin) (1)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo) (1)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter) (1)
+[NOTICE @ 17:52:31 | SongCore] Found duplicates:
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...) (1)
+[NOTICE @ 17:52:31 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...)
+[INFO @ 17:52:31 | SongCore] Saving cached hashes for 2893 songs.
+[INFO @ 17:52:31 | SongCore] Saving cached durations for 2893 songs.
+[INFO @ 17:52:31 | SongCore] Saving cached song data for 2900 songs.
+[INFO @ 17:52:32 | SongCore] Starting song refresh
+[WARNING @ 17:52:32 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomLevels\42b87 (ready2flow - Astellic)' is missing Info.dat file!
+[WARNING @ 17:52:32 | SongCore] Folder: 'H:\New folder (33)\BSManager\BSInstances\1.40.8\Beat Saber_Data\CustomWIPLevels\Cache' is missing Info.dat file!
+[INFO @ 17:52:32 | SongCore] Loaded 2896 new songs (2895) in CustomLevels | 1 in separate folder) in 0.1560185 seconds
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\34242 (RAMENEZ LA COUPE A LA MAISON - Gas & Zo...) (1)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3a6cb (INTERNET OF SHIT - Lolighter) (1)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - ) (1)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3b14c (comatose - )
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate) (1)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\3cdd0 ( - Radiate)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek - Dreamworks ~ Map by KingPeuche
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\Shrek
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\2f02f (RaMeMes Ultra Challenge Mix - Lolighter) (1)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\362be (Schizophrenia Challenge - Syn0Sin) (1)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo) (1)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\40e9b (COCOA WATERSLIDE - fakechi and malo)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\2e592 (Bota RAPIDO na Pipokinha - Lolighter) (1)
+[NOTICE @ 17:52:33 | SongCore] Found duplicates:
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...) (1)
+[NOTICE @ 17:52:33 | SongCore]   .\Beat Saber_Data\CustomLevels\38d9f (5 MINUTINHOS DE TAMBOR RELIKIA DE VOLTA...)
+[INFO @ 17:52:33 | SongCore] Saving cached hashes for 2893 songs.
+[INFO @ 17:52:33 | SongCore] Saving cached durations for 2893 songs.
+[INFO @ 17:52:33 | SongCore] Saving cached song data for 2900 songs.
+[ERROR @ 17:52:34 | Cinema] No config exists for :
+[INFO @ 17:52:34 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:34 | Cinema] No config exists for :
+[INFO @ 17:52:34 | SongPlayHistory/SPHUI] Updating SPH UI
+[INFO @ 17:52:41 | ChatPlexSDK_BS] Connection was closed after 21:52:41.
+[ERROR @ 17:52:42 | Cinema] No config exists for :
+[INFO @ 17:52:42 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:50 | Cinema] No config exists for :
+[INFO @ 17:52:50 | SongPlayHistory/SPHUI] Updating SPH UI
+[ERROR @ 17:52:51 | Cinema] No config exists for :
+[INFO @ 17:52:51 | SongPlayHistory/SPHUI] Updating SPH UI

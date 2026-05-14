@@ -21,6 +21,7 @@ namespace SongRankedBadge
         private static readonly Color c_ranked = c_promoOG; // same as the og promo 
         private static readonly Color c_blranked = new Color32(0x8B, 0x63, 0xBB, 0xFF);
         private static readonly Color c_ssranked = new Color32(0xED, 0xCC, 0x08, 0xFF);
+        private static readonly Color c_ChallengeSaber = new Color32(0xFF, 0x69, 0xB4, 0xFF);
 
         private static readonly Dictionary<RankStatus, Color> Colors = new Dictionary<RankStatus, Color>
         {
@@ -28,7 +29,8 @@ namespace SongRankedBadge
             [RankStatus.Curated] = c_curated,
             [RankStatus.Ranked] = c_ranked,
             [RankStatus.BeatLeader] = c_blranked,
-            [RankStatus.ScoreSaber] = c_ssranked
+            [RankStatus.ScoreSaber] = c_ssranked,
+            [RankStatus.ChallengeSaber] = c_ChallengeSaber
         };
 
         private static readonly Dictionary<RankStatus, string> Texts = new Dictionary<RankStatus, string>
@@ -37,7 +39,8 @@ namespace SongRankedBadge
             [RankStatus.Curated] = "Curated",
             [RankStatus.Ranked] = "Ranked",
             [RankStatus.BeatLeader] = "BL Ranked",
-            [RankStatus.ScoreSaber] = "SS Ranked"
+            [RankStatus.ScoreSaber] = "SS Ranked",
+            [RankStatus.ChallengeSaber] = "CS"
         };
 
         [HarmonyPostfix]
@@ -49,7 +52,7 @@ namespace SongRankedBadge
             try
             {
                 var hash = SongCore.Collections.GetCustomLevelHash(beatmapLevel.levelID);
-                rankedStatus = RankStatusManager.Instance.GetSongRankedStatus(hash);
+                rankedStatus = RankStatusManager.Instance.GetSongRankedStatus(hash, RankStatusManager.Instance.GetChallengeloader());
             }
             catch (Exception e)
             {

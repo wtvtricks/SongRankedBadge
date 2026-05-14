@@ -1,5 +1,5 @@
-﻿using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using System.IO;
 using SongDetailsCache;
 using SongDetailsCache.Structs;
 
@@ -11,6 +11,7 @@ namespace SongRankedBadge
         
         private SongDetails? _songDetails = null;
 
+        public UploadFlags Challengeloader { get; private set; }
 
         internal void Init()
         {
@@ -22,7 +23,12 @@ namespace SongRankedBadge
             });
         }
 
-        internal RankStatus GetSongRankedStatus(string hash)
+        internal System.Enum GetChallengeloader()
+        {
+            return Challengeloader;
+        }
+
+        internal RankStatus GetSongRankedStatus(string hash, System.Enum _)
         {
             if (_songDetails == null)
             {
@@ -39,6 +45,7 @@ namespace SongRankedBadge
                 var ssRank = rankedStates.HasFlag(RankedStates.ScoresaberRanked);
                 var blRank = rankedStates.HasFlag(RankedStates.BeatleaderRanked);
                 var curated = uploadFlags.HasFlag(UploadFlags.Curated);
+                var challengeSaber = ChallengeLoader.ChallengesHashes.Contains(hash.ToLower());
                 if (ssRank && blRank)
                 {
                     return RankStatus.Ranked;
@@ -58,6 +65,12 @@ namespace SongRankedBadge
                 {
                     return RankStatus.Curated;
                 }
+
+                if (challengeSaber)
+                {
+                    return RankStatus.ChallengeSaber;
+                }
+
             }
 
             return RankStatus.None;
@@ -70,6 +83,7 @@ namespace SongRankedBadge
         ScoreSaber,
         BeatLeader,
         Ranked, // just ranked, means both
-        Curated  // curated comes after ranked status
+        Curated,  // curated comes after ranked status
+        ChallengeSaber
     }
 }

@@ -1,13 +1,15 @@
-﻿using IPA;
-using IPA.Config.Stores;
-using System.Reflection;
-using HarmonyLib;
-using BeatSaberMarkupLanguage.Settings;
+﻿using BeatSaberMarkupLanguage.Settings;
 using BeatSaberMarkupLanguage.Util;
+using HarmonyLib;
+using IPA;
+using IPA.Config.Stores;
 using SongRankedBadge.Configuration;
 using SongRankedBadge.UI;
-using IPALogger = IPA.Logging.Logger;
+using System;
+using System.IO;
+using System.Reflection;
 using Conf = IPA.Config.Config;
+using IPALogger = IPA.Logging.Logger;
 
 namespace SongRankedBadge
 {
@@ -36,8 +38,15 @@ namespace SongRankedBadge
             Log.Info("SongRankedBadge initialized.");
         }
 
-        private void OnMenuLoad()
+        [OnEnable]
+        public void OnMenuLoad()
         {
+            // Use the actual game directory to find the Playlists folder
+            string playlistPath = Path.Combine(Environment.CurrentDirectory, "Playlists");
+
+            // This fills the static list inside ChallengeLoader
+            ChallengeLoader.LoadAllChallengePlaylists(playlistPath);
+
             BSMLSettings.Instance.AddSettingsMenu("Ranked Badge", "SongRankedBadge.UI.configMenu.bsml", _modSettings);
         }
     }
